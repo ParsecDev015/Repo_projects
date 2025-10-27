@@ -1,0 +1,7 @@
+echo "__pycache__/
+*.log
+*.csv
+*.jar
+/resultados/
+/data/amazon.xlsx
+" > .gitignore
